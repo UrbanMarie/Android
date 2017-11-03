@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Apprenant_beweb</string>
+    <string name="promoPrompt">choisir une promotion</string>
+    <string name="sessionPrompt">choisir une session</string>
+    <string name="skillPrompt">selectionner un skill</string>
+
+    <string-array name="prenom">
+        <item> Bonnie </item>
+        <item> Guts </item>
+        <item> Raja </item>
+        <item> Malicia </item>
+    </string-array>
+
+    <string-array name="nom">
+        <item> Clyde </item>
+        <item> Inahya </item>
+        <item> Pimpin </item>
+        <item> Clinton </item>
+    </string-array>
+
+    <string-array name="skill">
+        <item> cuisinier </item>
+        <item> ebeniste </item>
+        <item> artiste </item>
+        <item> plombier </item>
+    </string-array>
+
+    <string-array name="identity">
+        <identity>
+            <nom>Lars</nom>
+            <prenom>Test</prenom>
+            <skill>Test</skill>
+        </identity>
+        <identity>
+            <nom>Lars</nom>
+            <prenom>Test</prenom>
+            <skill>Test</skill>
+        </identity>
+        <identity>
+            <nom>Lars</nom>
+            <prenom>Test</prenom>
+            <skill>Test</skill>
+        </identity>
+        <identity>
+            <nom>Lars</nom>
+            <prenom>Test</prenom>
+            <skill>Test</skill>
+        </identity>
+    </string-array>
+</resources>
